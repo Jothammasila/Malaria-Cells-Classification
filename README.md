@@ -6,5 +6,6 @@ Tha dataset used is from the Tensorflow Image libraries, which contains approxim
 
 The Notebook can be accesses in Kaggle via the link: [Malaria-Cell-Classifier](https://www.kaggle.com/code/jothammasila/malaria-cell-classifier/edit). 
 
-The trained model can be accessed or downloaded via the link: [malaria_cell_model.h5](https://drive.google.com/file/d/1CL08QS4vqxohc-DhGMzEVDLyhuZsf0CX/view?usp=sharing)
+The trained model can be accessed or downloaded via the link: [malaria_cell_model.h5](https://drive.google.com/file/d/1CL08QS4vqxohc-DhGMzEVDLyhuZsf0CX/view?usp=sharing).
+
 Then store the downloased model in the right folder and then load and try it using the code in the [Loading Saved Model](https://www.kaggle.com/code/jothammasila/malaria-cell-classifier/edit) part of the original notebook.
